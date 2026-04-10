@@ -136,3 +136,9 @@ O sistema permitirá:
 ## 🧠 9. Conclusão
 
 O projeto “O Decifrador” possibilitou a aplicação prática de conceitos de engenharia de software, alinhados aos modelos CMMI e MPS-BR. Além da implementação da Cifra de César, a equipe seguiu um processo estruturado, envolvendo planejamento, controle de versão, revisão de código e testes, garantindo a qualidade do sistema. Conclui-se que a utilização de boas práticas e processos organizados contribui diretamente para o desenvolvimento de um software mais confiável, organizado e de fácil manutenção.
+
+---
+
+## 🚀 Fluxograma
+
+https://canva.link/v95vney3hn286ds
